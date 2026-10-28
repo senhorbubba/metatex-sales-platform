@@ -3,6 +3,7 @@
 Internal B2B sales & analytics platform for a knit-fabric manufacturer. It turned a spreadsheet-and-phone-call sales operation into a real-time, data-driven product used daily by field reps, SDRs, and management.
 
 > ℹ️ The source code is private (proprietary business logic). This is a write-up of the work, the decisions, and the architecture.
+> 🛠️ Built with Claude Code under my direction, from spec to production deploy: I wrote the specs, reviewed every change and owned the architecture and data decisions.
 
 ## Problem
 
